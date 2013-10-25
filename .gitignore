@@ -1,4 +1,6 @@
+# Python extensions
 *.py[cod]
+*.py~
 
 # C extensions
 *.so
