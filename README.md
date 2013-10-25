@@ -1,2 +1,2 @@
-projectmaker
+python projectmaker
 ============
